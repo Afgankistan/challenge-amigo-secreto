@@ -2,7 +2,7 @@
 - [🎁 Amigo Secreto](#-amigo-secreto)
 - [📃 Funcionalidades](#-funcionalidades)
 - [📂 Estructura del proyecto](#-estructura-del-proyecto)
-- [🔧 Tecnologias utilizadas](#tecnologias-utilizadas)
+- [🔧 Tecnologías utilizadas](#tecnologias-utilizadas)
 - [📖 Instrucciones de uso](#-instrucciones-de-uso)
 - [🌟 Agradecimientos](#-agradecimientos)
 
@@ -12,22 +12,22 @@ Este es un juego sencillo para descubrir tu Amigo Secreto desarrollado con HTML,
 Link del juego:(https://github.com/Afgankistan/challenge-amigo-secreto.git)
 
 ## 📃 Funcionalidades
-- **Agregar amigos** evitando nombres vacíos, duplicados o con números.
+- **Agregar amigos** evitando nombres vacíos, duplicados, con números y espacios al inicio y al final.
 - **Lista dinámica** que muestra los amigos agregados.
 - **Sorteo aleatorio** para elegir el amigo secreto.
-- **Reinicio del juego automático despues de 7 segundos** para limpiar la lista y comenzar de nuevo.
+- **Reinicio del juego automático después de 7 segundos** para limpiar la lista y comenzar de nuevo.
 
 ## 📂 Estructura del proyecto
 
 ```
-┣📂assets              # Carpeta de imagenes 
+┣📂assets              # Carpeta de imágenes 
  ┣ 📜 index.html       # Página principal
  ┣ 📜 style.css        # Estilos y diseño
  ┣ 📜 script.js        # Lógica del juego
  ┗ 📜 README.md        # Documentación del proyecto
 ```
 
-## 🔧Tecnologias utilizadas
+## 🔧Tecnologías utilizadas
 
 | Herramienta / Tecnología | Uso en el proyecto |
 |--------------------------|--------------------|

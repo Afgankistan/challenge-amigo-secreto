@@ -1,36 +1,59 @@
-🎁 Amigo Secreto
+# 📑 Índice
+- [🎁 Amigo Secreto](#-amigo-secreto)
+- [📃 Funcionalidades](#-funcionalidades)
+- [📂 Estructura del proyecto](#-estructura-del-proyecto)
+- [🔧 Tecnologias utilizadas](#tecnologias-utilizadas)
+- [📖 Instrucciones de uso](#-instrucciones-de-uso)
+- [🌟 Agradecimientos](#-agradecimientos)
+
+## 🎁 Amigo Secreto
 Este es un juego sencillo de Amigo Secreto desarrollado con HTML, CSS y JavaScript, que permite agregar amigos a una lista, asegurando que los nombres sean válidos (sin números ni duplicados) y luego seleccionar aleatoriamente uno como el “amigo secreto”.
-<img width="1912" height="925" alt="image" src="https://github.com/user-attachments/assets/b414f6ee-6a00-4f08-b4f0-48f95e0df0fb" />
+![Interfaz del juego](./images/interfaz.png)
+Link del juego:https://anyseyer.github.io/Amigo-secreto/
 
-📃 Funcionalidades
-Agregar amigos evitando nombres vacíos, duplicados o con números.
-Lista dinámica que muestra los amigos agregados.
-Sorteo aleatorio para elegir el amigo secreto.
-Reinicio del juego para limpiar la lista y comenzar de nuevo.
+## 📃 Funcionalidades
+- **Agregar amigos** evitando nombres vacíos, duplicados o con números.
+- **Lista dinámica** que muestra los amigos agregados.
+- **Sorteo aleatorio** para elegir el amigo secreto.
+- **Reinicio del juego** para limpiar la lista y comenzar de nuevo.
 
-📂 Estructura del proyecto
+## 📂 Estructura del proyecto
+
+```
 📦 amigo-secreto
-┣📂assets              # Carpeta de imagenes 
+┣📂images              # Carpeta de imagenes 
  ┣ 📜 index.html       # Página principal
  ┣ 📜 style.css        # Estilos y diseño
  ┣ 📜 script.js        # Lógica del juego
  ┗ 📜 README.md        # Documentación del proyecto
+```
 
- 🔧Tecnologias utilizadas
-Herramienta / Tecnología	Uso en el proyecto
-HTML5	Estructura de la interfaz
-CSS3	Diseño y estilos responsivos
-JavaScript	Lógica del juego y validaciones
-Visual Studio Code	Editor de código
+## 🔧Tecnologias utilizadas
 
-📋 Instrucciones de uso
-Clonar o descargar este repositorio:
+| Herramienta / Tecnología | Uso en el proyecto |
+|--------------------------|--------------------|
+| **HTML5**                | Estructura de la interfaz |
+| **CSS3**                 | Diseño y estilos responsivos |
+| **JavaScript**           | Lógica del juego y validaciones |
+| **Visual Studio Code**   | Editor de código |
 
-git clone https://github.com/AnySeyer/Amigo-secreto.git
-Abrir el archivo index.html en cualquier navegador.
+## 📋 Instrucciones de uso
 
-Escribir el nombre de un amigo en el campo de texto y presionar Añadir.
+1. Clonar o descargar este repositorio:
+     ```
+   git clone https://github.com/AnySeyer/Amigo-secreto.git
+    ```
+2. Abrir el archivo index.html en cualquier navegador.
 
-Una vez agregados al menos 2 amigos, presionar Sortear amigo.
+3. Escribir el nombre de un amigo en el campo de texto y presionar Añadir.
 
-Para reiniciar, presionar el botón Reiniciar juego.
+4. Una vez agregados al menos 2 amigos, presionar Sortear amigo.
+
+5. Para reiniciar, presionar el botón Reiniciar juego.
+
+## 🌟 Agradecimientos
+**Oracle Next Education (ONE)** en colaboración con Alura LATAM por proporcionar la formación y los desafíos que hicieron posible este proyecto.
+
+**Programa Oracle ONE:** Iniciativa educativa que democratiza el acceso a la tecnología en Latinoamérica.
+
+**Alura LATAM:** Plataforma de educación tecnológica que brinda contenido de calidad y desafíos prácticos.

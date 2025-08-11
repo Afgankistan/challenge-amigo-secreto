@@ -7,15 +7,15 @@
 - [🌟 Agradecimientos](#-agradecimientos)
 
 ## 🎁 Amigo Secreto
-Este es un juego sencillo de Amigo Secreto desarrollado con HTML, CSS y JavaScript, que permite agregar amigos a una lista, asegurando que los nombres sean válidos (sin números ni duplicados) y luego seleccionar aleatoriamente uno como el “amigo secreto”.
+Este es un juego sencillo para descubrir tu Amigo Secreto desarrollado con HTML, CSS y JavaScript, que permite agregar amigos a una lista, asegurando que los nombres sean válidos (sin números, ni duplicados) y luego seleccionar aleatoriamente uno como el “amigo secreto”.
 ![Interfaz del juego](./assets/image.png)
-Link del juego:()
+Link del juego:(https://github.com/Afgankistan/challenge-amigo-secreto.git)
 
 ## 📃 Funcionalidades
 - **Agregar amigos** evitando nombres vacíos, duplicados o con números.
 - **Lista dinámica** que muestra los amigos agregados.
 - **Sorteo aleatorio** para elegir el amigo secreto.
-- **Reinicio del juego automático** para limpiar la lista y comenzar de nuevo.
+- **Reinicio del juego automático despues de 7 segundos** para limpiar la lista y comenzar de nuevo.
 
 ## 📂 Estructura del proyecto
 

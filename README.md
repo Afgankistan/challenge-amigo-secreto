@@ -9,19 +9,18 @@
 ## 🎁 Amigo Secreto
 Este es un juego sencillo de Amigo Secreto desarrollado con HTML, CSS y JavaScript, que permite agregar amigos a una lista, asegurando que los nombres sean válidos (sin números ni duplicados) y luego seleccionar aleatoriamente uno como el “amigo secreto”.
 ![Interfaz del juego](./images/interfaz.png)
-Link del juego:https://anyseyer.github.io/Amigo-secreto/
+Link del juego:()
 
 ## 📃 Funcionalidades
 - **Agregar amigos** evitando nombres vacíos, duplicados o con números.
 - **Lista dinámica** que muestra los amigos agregados.
 - **Sorteo aleatorio** para elegir el amigo secreto.
-- **Reinicio del juego** para limpiar la lista y comenzar de nuevo.
+- **Reinicio del juego automático** para limpiar la lista y comenzar de nuevo.
 
 ## 📂 Estructura del proyecto
 
 ```
-📦 amigo-secreto
-┣📂images              # Carpeta de imagenes 
+┣📂assets              # Carpeta de imagenes 
  ┣ 📜 index.html       # Página principal
  ┣ 📜 style.css        # Estilos y diseño
  ┣ 📜 script.js        # Lógica del juego
@@ -41,7 +40,7 @@ Link del juego:https://anyseyer.github.io/Amigo-secreto/
 
 1. Clonar o descargar este repositorio:
      ```
-   git clone https://github.com/AnySeyer/Amigo-secreto.git
+   git clone https://github.com/Afgankistan/challenge-amigo-secreto.git
     ```
 2. Abrir el archivo index.html en cualquier navegador.
 
@@ -49,7 +48,7 @@ Link del juego:https://anyseyer.github.io/Amigo-secreto/
 
 4. Una vez agregados al menos 2 amigos, presionar Sortear amigo.
 
-5. Para reiniciar, presionar el botón Reiniciar juego.
+5. El juego se reinicia automaticamente despues de 7 segundos.
 
 ## 🌟 Agradecimientos
 **Oracle Next Education (ONE)** en colaboración con Alura LATAM por proporcionar la formación y los desafíos que hicieron posible este proyecto.
